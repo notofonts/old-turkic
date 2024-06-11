@@ -36,8 +36,6 @@
     <string>http://www.google.com/get/noto/</string>
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Regular</string>
-    <key>openTypeNameVersion</key>
-    <string>Version 2.003</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
