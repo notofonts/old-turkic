@@ -6,7 +6,8 @@ includeSubsets:
   name: GF_Latin_Core
 - from: Noto Sans
   ranges:
-    - start: 0x205A
-      end: 0x205A
+  - end: 8282
+    start: 8282
+recipeProvider: noto
 sources:
 - NotoSansOldTurkic.designspace
