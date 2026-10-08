@@ -10,4 +10,4 @@ includeSubsets:
     start: 8282
 recipeProvider: noto
 sources:
-- NotoSansOldTurkic.designspace
+- NotoSansOldTurkic-Regular.ufo
